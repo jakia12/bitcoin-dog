@@ -704,10 +704,7 @@ h2 {
 }
 
 .about__illustration {
-  width: 41%;
-  border-radius: 50%;
-  background: #f1c40f;
-  border: 5px solid #fff;
+  width: 40%;
 }
 @media screen and (max-width: 1023.98px) {
   .about__illustration {
